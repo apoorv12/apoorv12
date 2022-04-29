@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Apoorv Khandelwal
-- 👀 I’m interested in Automation and APIs
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Website Development, Automation and APIs
+- 🌱 I’m currently learning Python, Html, Css, Javascript, Node.js, svelte, express, mongodb
 - 💞️ I’m looking to collaborate on Tech based Business
 - 📫 How to reach me: Email me: apoorvkhandelwal86@gmail.com
 
