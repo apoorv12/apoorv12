@@ -1,13 +1,34 @@
 Hi 👋 My name is Apoorv Khandelwal
 ==================================
 
-Web Developer & AI Expert
--------------------------
+A Passionate Developer, Entrepreneur & AI Expert
+------------------------------------------------
 
-I'm a passionate web developer with a deep understanding of Artificial Intelligence. I leverage the power of AI to create innovative, user-centric web experiences. I can: 
-- Develop robust and scalable web applications using modern technologies.
-- Integrate AI functionalities like chatbots, recommendation systems, or data analysis to enhance user experience and functionality.
-- Stay ahead of the curve by constantly learning and exploring new advancements in AI and web development.
+🚀 What I Do
+I specialize in creating seamless Customer Service Automation solutions, empowering businesses to deliver exceptional user experiences through AI-driven workflows. My journey spans building automation tools, developing modern web applications, and exploring new AI capabilities to solve real-world challenges.
+
+🌟 Expertise Highlights
+	•	Frontend Development: Crafting scalable and performant interfaces using frameworks like Astro, Tailwind CSS, and Shadcn.
+	•	Backend Development: Building reliable and secure services using NestJS, Hono, and Next.js.
+	•	Automation: Deploying efficient workflows via tools like n8n, Make.com, and Raycast extensions for task simplification.
+	•	AI and Machine Learning: Developing AI solutions for voice assistants, inbound/outbound sales, and virtual garment fitting with Llama 3.1 and other state-of-the-art models.
+
+🛠 Current Projects
+	1.	Virtual Fit: AI-based model generation for garment manufacturers and e-commerce sellers.
+	2.	Raycast Extensions: Tools to enhance productivity, including Fetch YouTube Transcripts, which supports 16 major languages.
+	3.	Customer Service Automation: Focused on building tools that help businesses streamline their support and engagement processes.
+
+🎯 Core Values
+I believe in:
+	•	Efficiency: Streamlining workflows to achieve maximum impact.
+	•	Creativity: Finding unique solutions for complex problems.
+	•	Collaboration: Working together to create impactful results.
+
+📈 Growth and Learning
+I’m constantly learning about new frameworks, APIs, and tools to stay ahead in this rapidly evolving tech landscape. Whether it’s diving into Apple’s MLX library or exploring Stripe integrations, I thrive on expanding my skill set.
+
+🤝 Let’s Connect
+I’m always open to collaborations, knowledge sharing, and brainstorming innovative ideas. Feel free to explore my repositories, reach out, or just say hi!
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [apoorv@agmarketingservice.co.in](mailto:apoorv@agmarketingservice.co.in)
