@@ -35,7 +35,7 @@ I’m always open to collaborations, knowledge sharing, and brainstorming innova
 🌟 **Let’s build something amazing together!** 🌟
 
 *   🌍  I'm based in India
-*   ✉️  You can contact me at [apoorv@agmarketingservice.co.in](mailto:apoorv@agmarketingservice.co.in)
+*   ✉️  You can contact me at [apoorv@brownmind.com](mailto:apoorv@brownmind.com)
 
 ---
 ### Skills
