@@ -5,7 +5,7 @@ A Passionate Developer, Entrepreneur & AI Expert
 ------------------------------------------------ 
 
 ## 🚀 What I Do  
-I specialize in creating seamless **Customer Service Automation** solutions, empowering businesses to deliver exceptional user experiences through AI-driven workflows. My journey spans building automation tools, developing modern web applications, and exploring new AI capabilities to solve real-world challenges.  
+I am Founder of Brown Mind,  an AI Automation Agency specialize in creating seamless **Agentic Workflow Automation** solutions, empowering businesses to deliver exceptional user experiences. My journey spans building automation tools, developing modern web applications, and exploring new AI capabilities to solve real-world challenges.  
 
 ## 🌟 Expertise Highlights  
 - **Frontend Development:** Crafting scalable and performant interfaces using frameworks like **Astro**, **Tailwind CSS**, and **Shadcn**.  
