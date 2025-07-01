@@ -1,11 +1,11 @@
-Hi 👋 My name is Apoorv Khandelwal
+Hi 👋 My name is Apurva Khandelwal
 ==================================
 
 A Passionate Developer, Entrepreneur & AI Expert
 ------------------------------------------------ 
 
 ## 🚀 What I Do  
-I am Founder of Brown Mind,  an AI Automation Agency specialize in creating seamless **Agentic Workflow Automation** solutions, empowering businesses to deliver exceptional user experiences. My journey spans building automation tools, developing modern web applications, and exploring new AI capabilities to solve real-world challenges.  
+I am Founder of BrownMind,  an AI Automation Agency specialize in creating seamless **Agentic Workflow Automation** solutions, empowering businesses to deliver exceptional user experiences. My journey spans building automation tools, developing modern web applications, and exploring new AI capabilities to solve real-world challenges.  
 
 ## 🌟 Expertise Highlights  
 - **Frontend Development:** Crafting scalable and performant interfaces using frameworks like **Astro**, **Tailwind CSS**, and **Shadcn**.  
@@ -35,7 +35,7 @@ I’m always open to collaborations, knowledge sharing, and brainstorming innova
 🌟 **Let’s build something amazing together!** 🌟
 
 *   🌍  I'm based in India
-*   ✉️  You can contact me at [apoorv@brownmind.com](mailto:apoorv@brownmind.com)
+*   ✉️  You can contact me at [apurva@brownmind.com](mailto:apurva@brownmind.com)
 
 ---
 ### Skills
