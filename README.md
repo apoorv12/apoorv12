@@ -1,46 +1,47 @@
 Hi 👋 My name is Apurva Khandelwal
 ==================================
 
-A Passionate Developer, Entrepreneur & AI Expert
------------------------------------------------- 
+Founder & AI Systems Architect at BrownMind
+-------------------------------------------
 
-## 🚀 What I Do  
-I am Founder of BrownMind,  an AI Automation Agency specialize in creating seamless **Agentic Workflow Automation** solutions, empowering businesses to deliver exceptional user experiences. My journey spans building automation tools, developing modern web applications, and exploring new AI capabilities to solve real-world challenges.  
+## What I Do
 
-## 🌟 Expertise Highlights  
-- **Frontend Development:** Crafting scalable and performant interfaces using frameworks like **Astro**, **Tailwind CSS**, and **Shadcn**.  
-- **Backend Development:** Building reliable and secure services using **NestJS**, **Hono**, and **Next.js**.  
-- **Automation:** Deploying efficient workflows via tools like **n8n**, **Make.com**, and **Raycast extensions** for task simplification.  
-- **AI and Machine Learning:** Developing AI solutions for voice assistants, inbound/outbound sales, and virtual garment fitting with **Llama 3.1** and other state-of-the-art models.  
+I’m the founder of BrownMind, where we build **AI workflow automation**, **conversational AI**, and **AI product development** systems for sales and operations teams.
 
-## 🛠 Current Projects  
-1. **Virtual Fit:** AI-based model generation for garment manufacturers and e-commerce sellers.  
-2. **Raycast Extensions:** Tools to enhance productivity, including **Fetch YouTube Transcripts**, which supports 16 major languages.  
-3. **Customer Service Automation:** Focused on building tools that help businesses streamline their support and engagement processes.  
+My work usually starts where fragile automations, delayed follow-up, or AI prototypes begin to break down in the real world. I focus on systems that qualify leads, keep CRM data clean, handle conversations across chat or voice, ground responses in real knowledge, and become production-ready products.
 
-## 🎯 Core Values  
-I believe in:  
-- **Efficiency:** Streamlining workflows to achieve maximum impact.  
-- **Creativity:** Finding unique solutions for complex problems.  
-- **Collaboration:** Working together to create impactful results.  
+## Focus Areas
 
-## 📈 Growth and Learning  
-I'm constantly learning about new frameworks, APIs, and tools to stay ahead in this rapidly evolving tech landscape. Whether it’s diving into **Apple’s MLX library** or exploring **Stripe integrations**, I thrive on expanding my skill set.  
+- **AI Workflow Automation:** Lead qualification, CRM automation, routing, enrichment, and operational workflows.
+- **Conversational AI:** Chat, voice, and retrieval-grounded systems for support, sales, and internal workflows.
+- **AI Product Development:** Multi-tenant AI products with auth, billing, dashboards, and production infrastructure.
+- **Engineering:** Modern full-stack systems using Astro, TypeScript, Node.js, and practical automation tooling.
 
-## 🤝 Let’s Connect  
-I’m always open to collaborations, knowledge sharing, and brainstorming innovative ideas. Feel free to explore my repositories, reach out, or just say hi!  
+## How I Work
 
----
+- Build in code, not fragile chains of patches
+- Scope clearly and optimize for production reliability
+- Prefer practical systems that survive real operations
+- Stay close to implementation, architecture, and delivery
 
-🌟 **Let’s build something amazing together!** 🌟
+## Current Direction
 
-*   🌍  I'm based in India
-*   ✉️  You can contact me at [apurva@brownmind.com](mailto:apurva@brownmind.com)
+Right now, I’m focused on building systems that help businesses:
 
----
-### Skills
+- automate repetitive operational work
+- improve follow-up and response speed
+- turn internal AI workflows into usable products
+- move from experiments to production-ready systems
+
+## Let’s Connect
+
+I’m always open to thoughtful conversations around AI systems, workflow automation, product engineering, and applied AI.
+
+- 🌍 I'm based in India
+- ✉️ You can contact me at [apurva@brownmind.com](mailto:apurva@brownmind.com)
+
+## Skills
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-                    </p>
-                    
+</p>
