@@ -1,7 +1,7 @@
 Hi 👋 My name is Apurva Khandelwal
 ==================================
 
-Founder & AI Systems Architect at BrownMind
+Founder & AI Systems Architect at BrownMind | Senior AI Engineer at Ante Digital 
 -------------------------------------------
 
 ## What I Do
